@@ -1,0 +1,15 @@
+# Backend
+backend/target/
+backend/.mvn/
+backend/.idea/
+backend/logs/
+backend/*.log
+backend/*.jar
+backend/*.war
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.idea/
+frontend/.env
